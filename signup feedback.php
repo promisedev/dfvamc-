@@ -2,7 +2,7 @@
 <head>
 	<meta charset=="utf-8" name="viewport" content="width=device-width, initial-scale=1.O">
 	<style>
-	body{background:url("file:///D:/DFVIS PROJECT/signup-main.png"); background-size: contain ; background-repeat: no-repeat; 
+	body{background:url("signup-main.png"); background-size: contain ; background-repeat: no-repeat; 
 	background-position: center; height: 60%}
 
 		.feedback{ position:relative; text-align: center; padding: 20px; margin-top: 15%; height: auto; font-family: candara; font-size: 29px ; width: 40%; left: 38%; bottom: -47%		}
@@ -301,7 +301,7 @@
 			<div class="feedback">Hello <?php echo $_POST["Fname"];?>!<br>
 			Sorry our DATABASE has no been configured yet, sorry for the inconvenience.
 			</div>
-			<div class="back"><a href="file:///D:/DFVIS%20PROJECT/index.html">Back to home</a></div>
+			<div class="back"><a href="index.html">Back to home</a></div>
 
 			</body>
 			</html>
