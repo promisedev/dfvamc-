@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="63.5mm" height="63.5mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 63.5 63.5"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#034C31;fill-rule:nonzero}
+    .fil1 {fill:#39004D;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-682.407" y="-340.725" width="269.875" height="141.464"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-766.105" y="-401.104" width="262.819" height="144.992"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="-588.885" y="-344.784" width="234.95" height="162.278"/>
+   </clipPath>
+   <clipPath id="id3">
+    <rect x="-685.497" y="-343.892" width="260.703" height="146.403"/>
+   </clipPath>
+   <clipPath id="id4">
+    <rect x="-510.435" y="-493.175" width="276.225" height="137.936"/>
+   </clipPath>
+   <clipPath id="id5">
+    <rect x="-632.633" y="-347.036" width="259.644" height="147.108"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(1 0 0 1 -714.157 -231.011)" x="31.75" y="-109.714" width="269.875" height="141.464" xlink:href="down12_Images\down12_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image transform="matrix(1 0 0 1 -797.855 -287.862)" x="31.75" y="-113.242" width="262.819" height="144.992" xlink:href="down12_Images\down12_ImgID2.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+   <image transform="matrix(1 0 0 1 -620.635 -214.256)" x="31.75" y="-130.528" width="234.95" height="162.278" xlink:href="down12_Images\down12_ImgID3.png"/>
+  </g>
+  <g style="clip-path:url(#id3)">
+   <image transform="matrix(1 0 0 1 -717.247 -229.239)" x="31.75" y="-114.653" width="260.703" height="146.403" xlink:href="down12_Images\down12_ImgID4.png"/>
+  </g>
+  <g style="clip-path:url(#id4)">
+   <image transform="matrix(1 0 0 1 -542.185 -386.989)" x="31.75" y="-106.186" width="276.225" height="137.936" xlink:href="down12_Images\down12_ImgID5.png"/>
+  </g>
+  <g style="clip-path:url(#id5)">
+   <image transform="matrix(1 0 0 1 -664.383 -231.678)" x="31.75" y="-115.358" width="259.644" height="147.108" xlink:href="down12_Images\down12_ImgID6.png"/>
+  </g>
+  <polygon class="fil0" points="-714.382,-486.468 -654.931,-486.468 -654.931,-481.012 -714.382,-481.012 "/>
+  <polygon class="fil0" points="-714.382,-474.051 -654.931,-474.051 -654.931,-468.594 -714.382,-468.594 "/>
+  <polygon class="fil0" points="-714.382,-460.539 -654.931,-460.539 -654.931,-455.082 -714.382,-455.082 "/>
+  <polygon class="fil1" points="31.5499,47.2829 6.4284,26.1957 15.0916,26.1957 31.5499,39.7906 48.1116,26.1957 56.7231,26.1957 "/>
+ </g>
+</svg>
