@@ -1242,26 +1242,27 @@ a{text-decoration: none;}
 				<div  class="menu" ><img onclick="myFunction()" class="menu-size" src="menu.png"> </div>
 				<div class="dropdown-content" id="myDropdown">
 					<ul class="menu-list2">
-					<li><a href="about.html">About Us</a></li>
+					<a href="about.html"><li>About Us</li></a>
 					<li class="accordion">Admission</li>
 					<ul class="panel">
-					<li ><a href="admission.html">Admission Form</a></li>
-				    <li ><a href="prospective.html">Prospective</a></li>
+					<a href="admission.html"><li>Admission Form</li></a>
+				    <a href="prospective.html"><li>Prospective</li></a>
 				</ul>
 						<script>
 					var acc = document.getElementsByClassName("accordion");
 					var i;
-					for (i = 0; i < acc.length; i++){acc[i].addEventListener("mouseover", function(){this.classList.toggle("active");
+					for (i = 0; i < acc.length; i++){acc[i].addEventListener("click", function(){this.classList.toggle("active");
 
 						var panel = this.nextElementSibling;
 						if (panel.style.dispay==="block") { panel.style.display="none";}
 						else{panel.style.display="block";}
 					});}
 				</script>
-					<li><a href="assignment.html">Assignments</a></li>
-					<li><a href="">Events</a></li>
-					<li><a href="news.html">News</a></li>
-					<li><a href="teachers.html">Teachers</a></li></div>
+					<a href="assignment.html"><li>Assignments</li></a>
+					<a href=""><li>Events</li></a>
+					<a href="news.html"><li>News</li></a>
+					<a href="teachers.html"><li>Teachers</li></a>
+                                         <a href="index.HTML"><li>Home</li></a></div>
 				</div>
 				<script>
 					function myFunction(){document.getElementById("myDropdown").classList.toggle("show");}
@@ -1270,7 +1271,7 @@ a{text-decoration: none;}
 						var i;
 						for (i = 0; i < dropdowns.length; i++){var openDropdown = dropdowns[i];
 							if 
-								(openDropdown.classList.contains('show')) {openDropdown.classList.remove('show');
+								(openDropdown.classList.contains('show')) {openDropdown.classList.remve('show');
 						}}
 					}}
 				</script>
